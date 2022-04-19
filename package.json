@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-meyerwerftmfa",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MeyerWerft MFA",
   "types": "./types/index.d.ts",
   "cordova": {
